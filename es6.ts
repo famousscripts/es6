@@ -77,6 +77,17 @@ var mycalfun = function mycall2() {
     console.log('Hi this will not hoasting')
 }
 
+
+Install Bootstrap and FontAwesome
   
+1. npm install bootstrap font-awesome 
+2.
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+
+  https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+
+
 
 
